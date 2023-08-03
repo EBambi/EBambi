@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996)](https://www.linkedin.com/in/esteban-gonzalez-gomez/)
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">A Systems Engineering student from Colombia aiming to be a great DevOps.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
