@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Infrastructure](https://github.com/EBambi/Infrastructure)
+- 🔭 I’m currently working on [Cloud-Network](https://github.com/EBambi/Cloud-Network)
 
 - 🌱 I’m currently learning **Terraform, Docker and AWS (ECS)**
 
