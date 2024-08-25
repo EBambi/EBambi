@@ -1,13 +1,13 @@
 [![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996)](https://www.linkedin.com/in/esteban-gonzalez-gomez/)
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">A Systems Engineering student from Colombia aiming to be a great DevOps.</h3>
+<h3 align="center">A Systems Engineer with 1 year of experience from Colombia aiming to be a great DevOps.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Cloud-Network](https://github.com/EBambi/Cloud-Network)
+- 🔭 I’m currently working on [Cisco](https://www.cisco.com/)
 
-- 🌱 I’m currently learning **Terraform, Docker and AWS (ECS)**
+- 🌱 I’m currently learning **Concourse, Kubernetes and AWS**
 
 - 📫 How to reach me **estebanyalg@gmail.com**
 
